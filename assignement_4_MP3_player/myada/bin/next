@@ -1,3 +1,0 @@
-#!/bin/sh
-killall  mpg123 #send kill signal to all mpg123 processes in system
-echo 1 > /myApplications/playState #write 1 in playState file 
